@@ -1,0 +1,6 @@
+{
+  "name": "Geographical Instruments & Europe Learning Platform",
+  "description": "ระบบสรุปบทเรียนและแบบทดสอบวัดความเข้าใจแบบโต้ตอบ เรื่อง เครื่องมือทางภูมิศาสตร์และภูมิศาสตร์ทวีปยุโรป สำหรับนักเรียน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
